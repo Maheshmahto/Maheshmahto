@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fronted-developer
 -----------------
 
-* 🌍  I'm based in Mumbai
+* 🌍  I'm from mumbai
 * 🖥️  See my portfolio at [mahesh-portfolio-green.vercel.app/](http://mahesh-portfolio-green.vercel.app/)
 * ✉️  You can contact me at [maheshmahto1806@gamil.com](mailto:maheshmahto1806@gamil.com)
 * 🧠  I'm learning node.js
